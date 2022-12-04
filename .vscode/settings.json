@@ -1,6 +1,7 @@
 {
     "files.exclude": {
-       "out": true
+       "out": true,
+       ".gitignore": true
     },
     "typescript.tsdk": "node_modules\\typescript\\lib"
 }
